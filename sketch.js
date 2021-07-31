@@ -242,7 +242,7 @@ function draw(){
     }
 
     if(mousePressedOver(PlayButton)&&gameState==="Intro"){
-      gameState = "Level2"
+      gameState = "Level1"
 
     }
 
